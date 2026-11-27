@@ -37,6 +37,8 @@ https://github.com/ProfAlex2021/outubro/blob/main/js/script.js#L93=
 
 
 https://github.com/ProfAlex2021/outubro/blob/main/js/script.js#L94 = Erro 404
+
+
 https://github.com/ProfAlex2021/outubro/blob/main/js/script.js#L109 = Erro 404
 
 
