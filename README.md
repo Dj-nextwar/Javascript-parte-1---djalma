@@ -1,11 +1,11 @@
 djalma
 
 
-\\ E-mails estão iguais
+// E-mails estão iguais
 
-\\ Celulares estão iguais
+// Celulares estão iguais
 
-\\ Senhas estão iguais
+// Senhas estão iguais
 
 
 
